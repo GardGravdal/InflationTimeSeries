@@ -1,2 +1,2 @@
 # InflationTimeSeries
-Modelling inflation in Norway by time series.
+This is a project in the NTNU-course TMA4285 Time Series about modelling inflation in Norway by time series. The project is given in its entirety in "TMA4285_TS_ProjectFinal.pdf". R-code for the simulations can be found in the appendix of the pdf. This is a group project, and the solution was developed in collaboration with Christian O. Moen, Jakob B. Heide and Celine Olsson.
